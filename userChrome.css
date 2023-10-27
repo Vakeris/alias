@@ -142,8 +142,16 @@ toolbar#nav-bar {
     padding: 0px !important;
 }
 
+element {
+  display: none !important;
+}
+
+#star-button-box {
+  display: none !important;
+}
+
 #star-button {
-  display: none;
+  display: none !important;
 }
 
 #back-button {
