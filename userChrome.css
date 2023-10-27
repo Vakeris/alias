@@ -153,3 +153,7 @@ toolbar#nav-bar {
 #forward-button {
   display: none;
 }
+
+#urlbar-zoom-button {
+  display: none;
+}
